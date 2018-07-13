@@ -1,7 +1,7 @@
 {
-    "name": "react-trial-lesson",
+    "name": "react-trial-project",
     "version": "0.0.6",
-    "author": "Dima Vakatsiienko <d.vakatsiienko@lectrum.io>",
+    "author": "Serhii Yasenev <serhii.yasenev@gmail.com>",
     "private": true,
     "scripts": {
         "start": "nodemon",
